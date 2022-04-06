@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## Who am I?
 <ul>
   <li> :mortar_board: Chemical Enginnering Undergraduate - UFRGS </li>
+  <li> 🌐 GitHub Global Campus Student </li>
   <li> :floppy_disk: Data Scientist Student </li>
   <li> 🗺️ Brazilian </li>
   <li> 📌 Currently living in Canoas - RS - Brazil </li>
